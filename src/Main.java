@@ -16,7 +16,7 @@ public class Main {
         System.out.println(re);
 
     int x=12;
-    long a=999999999,b=5487777;
+    long a=888899,b=5487777;
     double pi=3.0;
     System.out.println(a+b);
 

@@ -11,14 +11,14 @@ public class Main {
 
     public static void main(String[] args) {
         int r=addmtd(2,4);
-        double re=addmtd(2.3,4.6,9.5) ;
+        double re=addmtd(2.3,4.6,9.0) ;
         System.out.println(r);
         System.out.println(re);
 
     int x=12;
     long a=888899,b=5487777;
-    double pi=3.0;
-    System.out.println(a+b);
+    double pi=9.0;
+    System.out.println(pi);
 
 
     }

@@ -11,10 +11,10 @@ public class Hotel {
      }
      switch (n){
          case 1:
-             System.out.println("1,2,3,,4");
+             System.out.println(",2,3,,4,5");
              break;
          case 2:
-             System.out.println("1,2");
+             System.out.println("1,2,3,4,7");
              break;
          case 3:
              System.out.println("nme.contact");
